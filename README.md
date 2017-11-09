@@ -1,0 +1,2 @@
+# safelink
+jalanin blog
